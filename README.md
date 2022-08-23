@@ -10,7 +10,7 @@ Visit [Heroku status site](https://status.heroku.com) for more details
 -->
 <div align="center">
   
-<a href="https://raganork-web.vercel.app/"><img align="center" src="https://i.imgur.com/lLgFrTQ.png" alt="Scan QR" height="112" width="300" /></a>
+<a href='https://www.linkpicture.com/view.php?img=LPic63052adc5bc921517978696'><img src='https://www.linkpicture.com/q/Bot-qr.png' type='image'></a>
 <br>
 <div>
 <br>
