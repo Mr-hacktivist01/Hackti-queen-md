@@ -6,8 +6,8 @@ This bot is made on whatsapp multi-device baileys.
 ### (Due to the removal of heroku-github integration, this project is currently unable to deploy to heroku servers. As of this, existing users also couldn't update their bots.)
 Visit [Heroku status site](https://status.heroku.com) for more details
 <br>
-##👇🏻👇🏻𝑺𝑪𝑨𝑵 𝑩𝑬𝑳𝑶𝑾 𝑸𝑹-𝑪𝑶𝑫𝑬 𝑻𝑶 𝑮𝑬𝑻 𝑺𝑬𝑺𝑺𝑰𝑶𝑵👇🏻👇🏻
 -->
+##👇🏻👇🏻𝑺𝑪𝑨𝑵 𝑩𝑬𝑳𝑶𝑾 𝑸𝑹-𝑪𝑶𝑫𝑬 𝑻𝑶 𝑮𝑬𝑻 𝑺𝑬𝑺𝑺𝑰𝑶𝑵👇🏻👇🏻
 <div align="center">
   
 <a href='https://www.linkpicture.com/view.php?img=LPic63052adc5bc921517978696'><img src='https://www.linkpicture.com/q/Bot-qr.png' type='image'></a>
