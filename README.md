@@ -10,7 +10,7 @@ Visit [Heroku status site](https://status.heroku.com) for more details
 ##👇🏻👇🏻𝑺𝑪𝑨𝑵 𝑩𝑬𝑳𝑶𝑾 𝑸𝑹-𝑪𝑶𝑫𝑬 𝑻𝑶 𝑮𝑬𝑻 𝑺𝑬𝑺𝑺𝑰𝑶𝑵👇🏻👇🏻
 <div align="center">
   
-<a href='https://www.linkpicture.com/view.php?img=LPic63052adc5bc921517978696'><img src='https://www.linkpicture.com/q/scan-button.png' type='image' width='160'></a>
+<a href='https://www.linkpicture.com/q/Bot-qr.png'><img src='https://www.linkpicture.com/q/scan-button.png' type='image' width='160'></a>
 <br>
 <div>
 <br>
