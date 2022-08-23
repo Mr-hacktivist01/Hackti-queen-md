@@ -1,6 +1,6 @@
 # Hackti-queen-md
 This bot is made on whatsapp multi-device baileys.
-# _ Hackti-queen-multi-device_
+# _ 𝑯𝑨𝑪𝑲𝑻𝑰-𝑸𝑼𝑬𝑬𝑵-multi-device_
 #### _Looking for non multi device version? Get it [here](https://github.com/souravkl11/raganork-legacy)_
 <!---## Readme first before using 👇❌
 ### (Due to the removal of heroku-github integration, this project is currently unable to deploy to heroku servers. As of this, existing users also couldn't update their bots.)
