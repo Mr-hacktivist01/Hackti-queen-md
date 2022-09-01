@@ -55,45 +55,46 @@ const {
   var gmsg="",ownmsg="",dlmsg="",utilmsg="",srmsg="",tms="",lms="",edmsg="";
   for (var i in setarr) {
   if (setarr[i].use === 'group') {
-    gmsg += `┃❉│ ${Math.floor(parseInt(i)+1)}. ${setarr[i].pattern.toString().match(/(\W*)([A-Za-zğüşıiöç1234567890 ]*)/)[2]} \n`
+    gmsg += `┃❁│ ${Math.floor(parseInt(i)+1)}. ${setarr[i].pattern.toString().match(/(\W*)([A-Za-zğüşıiöç1234567890 ]*)/)[2]} \n`
   }
   if (setarr[i].use === 'download') {
-    dlmsg += `┃❉│ ${Math.floor(parseInt(i)+1)}. ${setarr[i].pattern.toString().match(/(\W*)([A-Za-zğüşıiöç1234567890 ]*)/)[2]} \n`
+    dlmsg += `┃❁│ ${Math.floor(parseInt(i)+1)}. ${setarr[i].pattern.toString().match(/(\W*)([A-Za-zğüşıiöç1234567890 ]*)/)[2]} \n`
   }
   if (setarr[i].use === 'textmaker') {
-    tms += `┃❉│ ${Math.floor(parseInt(i)+1)}. ${setarr[i].pattern.toString().match(/(\W*)([A-Za-zğüşıiöç1234567890 ]*)/)[2]} \n`
+    tms += `┃❁│ ${Math.floor(parseInt(i)+1)}. ${setarr[i].pattern.toString().match(/(\W*)([A-Za-zğüşıiöç1234567890 ]*)/)[2]} \n`
   }
   if (setarr[i].use === 'owner') {
-    ownmsg += `┃❉│ ${Math.floor(parseInt(i)+1)}. ${setarr[i].pattern.toString().match(/(\W*)([A-Za-zğüşıiöç1234567890 ]*)/)[2]} \n`
+    ownmsg += `┃❁│ ${Math.floor(parseInt(i)+1)}. ${setarr[i].pattern.toString().match(/(\W*)([A-Za-zğüşıiöç1234567890 ]*)/)[2]} \n`
   }
   if (setarr[i].use === 'edit') {
-    edmsg += `┃❉│ ${Math.floor(parseInt(i)+1)}. ${setarr[i].pattern.toString().match(/(\W*)([A-Za-zğüşıiöç1234567890 ]*)/)[2]} \n`
+    edmsg += `┃❁│ ${Math.floor(parseInt(i)+1)}. ${setarr[i].pattern.toString().match(/(\W*)([A-Za-zğüşıiöç1234567890 ]*)/)[2]} \n`
   }
   if (setarr[i].use === 'search') {
-    srmsg += `┃❉│ ${Math.floor(parseInt(i)+1)}. ${setarr[i].pattern.toString().match(/(\W*)([A-Za-zğüşıiöç1234567890 ]*)/)[2]} \n`
+    srmsg += `┃❁│ ${Math.floor(parseInt(i)+1)}. ${setarr[i].pattern.toString().match(/(\W*)([A-Za-zğüşıiöç1234567890 ]*)/)[2]} \n`
   }
   if (setarr[i].use === 'utility') {
-    utilmsg += `┃❉│ ${Math.floor(parseInt(i)+1)}. ${setarr[i].pattern.toString().match(/(\W*)([A-Za-zğüşıiöç1234567890 ]*)/)[2]} \n`
+    utilmsg += `┃❁│ ${Math.floor(parseInt(i)+1)}. ${setarr[i].pattern.toString().match(/(\W*)([A-Za-zğüşıiöç1234567890 ]*)/)[2]} \n`
   }
   }
     var menu = `╭═══〘 ${BOT_INFO.split(";")[0]} 〙═══⊷❍
-  ┃❉╭──────────────
-  ┃❉│
-  ┃❉│ Owner : ${BOT_INFO.split(";")[1]}
-  ┃❉│ User : ${message.senderName}
-  ┃❉│ Mode : ${MODE}
-  ┃❉│ Server : ${config.HEROKU.APP_NAME}
-  ┃❉│ Total RAM: ${total}
-  ┃❉│ Available RAM: ${used}
-  ┃❉│ Disk Space: 620 GB
-  ┃❉│ Version: ${config.VERSION}
-  ┃❉│
-  ┃❉│
-  ┃❉│  ▎▍▌▌▉▏▎▌▉▐▏▌▎
-  ┃❉│  ▎▍▌▌▉▏▎▌▉▐▏▌▎
-  ┃❉│   ${BOT_INFO.split(";")[0]}
-  ┃❉│ 
-  ┃❉╰───────────────
+  ┃𒊹︎︎︎╭──────────────❄︎
+  ┃𒊹︎︎︎│
+  ┃𒊹︎︎︎│ Owner : ${BOT_INFO.split(";")[1]}
+  ┃𒊹︎︎︎│ User : ${message.senderName}
+  ┃𒊹︎︎︎│ Mode : ${MODE}
+  ┃𒊹︎︎︎│ Server : ${config.HEROKU.APP_NAME}
+  ┃𒊹︎︎︎│ Total RAM: ${total}
+  ┃𒊹︎︎︎│ Available RAM: ${used}
+  ┃𒊹︎︎︎│ Disk Space: 620 GB
+  ┃𒊹︎︎︎│ Version: ${config.VERSION}
+  ┃𒊹︎︎︎│
+  ┃𒊹︎︎︎│
+  ┃𒊹︎︎︎│  ▎▍▌▌▉▏▎▌▉▐▏▌▎
+  ┃𒊹︎︎︎│  ▎▍▌▌▉▏▎▌▉▐▏▌▎
+  ┃𒊹︎︎︎│   ${BOT_INFO.split(";")[0]}
+  ┃𒊹︎︎︎│ 
+  ┃𒊹︎︎︎╰───────────────❄︎
+  ┃  ❤️ᕼᗩᑕKTI-ᑫᑌᗴᗴᑎ-ᗰᗪ❤️
   ╰═════════════════⊷
   
   ╭════〘 Group 〙════⊷❍
