@@ -9,8 +9,7 @@ Visit [Heroku status site](https://status.heroku.com) for more details
 -->
 ##👇🏻👇🏻𝑺𝑪𝑨𝑵 𝑩𝑬𝑳𝑶𝑾 𝑸𝑹-𝑪𝑶𝑫𝑬 𝑻𝑶 𝑮𝑬𝑻 𝑺𝑬𝑺𝑺𝑰𝑶𝑵👇🏻👇🏻
 <div align="center">
-  
-<a href='https://i.ibb.co/p1LvX9b/Bot-qr.png'><img src='https://www.linkpicture.com/q/scan-button.png' type='image' width='160'></a>
+
 <br>
 <div>
 <br>
@@ -18,6 +17,8 @@ Visit [Heroku status site](https://status.heroku.com) for more details
 <a href="https://raganork-network.vercel.app/api/deploy-md" target="blank"><img align="center" src="https://i.imgur.com/gtK4XLX.png" alt="Deploy bot" height="112" width="310" /></a>
   <div>
 <br>
+<!--
 <a href="https://github.com/raganork-ind/whatsapp-bot/fork"><img align="center" src="https://i.imgur.com/rM1IC4u.png" alt="Fork and deploy" height="112" width="300" /></a>
 <div>
   <br>
+-->
